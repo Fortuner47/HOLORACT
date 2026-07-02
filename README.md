@@ -1,9 +1,10 @@
 # 💫 About Me:
 # Hi, I'm Thalha Ahamed 👋<br><br>I'm an AI Engineer and Full-Stack Developer passionate about building intelligent applications, interactive experiences, and AI-driven solutions. I enjoy working with Machine Learning, Computer Vision, React, FastAPI, Unity, and modern web technologies while continuously exploring new innovations in AI.
 
-> 📄 **Research Achievement**
->
-> Presented my research at the **CIMA SCRS Conference**, with the paper currently **under review for publication in Springer conference proceedings**.
+## 📚 Research
+
+- 📄 Presented my research at the **CIMA SCRS Conference**.
+- 📝 Paper currently **under review for publication in Springer conference proceedings**.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thalhaahamedt@gmail.com) 
